@@ -6170,11 +6170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nekozawa\\source\\repos\\DTSMCC_Exam2\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj",
+      "projectUniqueName": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj",
       "projectName": "DTSMCC_Exam2",
-      "projectPath": "C:\\Users\\Nekozawa\\source\\repos\\DTSMCC_Exam2\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj",
+      "projectPath": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj",
       "packagesPath": "C:\\Users\\Nekozawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nekozawa\\source\\repos\\DTSMCC_Exam2\\DTSMCC_Exam2\\obj\\",
+      "outputPath": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nekozawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

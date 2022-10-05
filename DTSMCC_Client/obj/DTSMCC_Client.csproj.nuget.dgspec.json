@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj": {}
+    "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Client\\DTSMCC_Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj": {
+    "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Client\\DTSMCC_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj",
-        "projectName": "DTSMCC_Exam2",
-        "projectPath": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\DTSMCC_Exam2.csproj",
+        "projectUniqueName": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Client\\DTSMCC_Client.csproj",
+        "projectName": "DTSMCC_Client",
+        "projectPath": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Client\\DTSMCC_Client.csproj",
         "packagesPath": "C:\\Users\\Nekozawa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Exam2\\obj\\",
+        "outputPath": "C:\\Users\\Nekozawa\\source\\repos\\Metrodata_EvaluationTask2_DTSMCC\\DTSMCC_Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nekozawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,30 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "BCrypt.Net-Next": {
-              "target": "Package",
-              "version": "[4.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.29, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.29, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.29, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
